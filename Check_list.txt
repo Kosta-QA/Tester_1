@@ -1,0 +1,27 @@
+AndroidGrid test app cecklist			
+  id	Description	PASS	FAIL
+1	Install app	TRUE	FALSE
+2	Open app	TRUE	FALSE
+3	Check "acess to the photo and media" permition menu 	TRUE	FALSE
+4	Tap allow button at the "acess to the photo and media" permition menu 	TRUE	FALSE
+5	Collapse app	TRUE	FALSE
+6	Open app again	TRUE	FALSE
+7	Tap "add widget" button	TRUE	FALSE
+8	Check "cancel" button at the appeared action menu	TRUE	FALSE
+9	Check "Add to home screen" button at the appeared action menu	TRUE	FALSE
+10	Check that widget appeared at the home screen	TRUE	FALSE
+11	Tap "save data" buton in the opened app	TRUE	FALSE
+12	Tap "send email" button in the opened app	TRUE	FALSE
+13	Check that saved data appeared in the email "subject" field	TRUE	FALSE
+14	Collapse email window	TRUE	FALSE
+15	Tap "send email" button in the opened app	TRUE	FALSE
+16	Check that saved data is still exist in the email subject field	TRUE	FALSE
+17	Tap "Clear data" button in the opened app	TRUE	FALSE
+18	Tap "send email" button in the opened app	TRUE	FALSE
+19	Check that "saved data" doesn't attached to the email subject field	TRUE	FALSE
+20	Tap "add widget"	TRUE	FALSE
+21	Delete app and check that widget will be deleted along with the app	TRUE	FALSE
+22	Tap "save data" then delete the app 	TRUE	FALSE
+23	Reinstall the app and check that saved data does't attached to the email subject field	TRUE	FALSE
+			[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[A[C[[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
